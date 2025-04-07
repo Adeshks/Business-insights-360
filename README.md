@@ -8,7 +8,7 @@ This Power BI project was developed to empower AtliQ Hardware, a rapidly growing
 
 ## Live Report Link
 
-[Live Report Link](Your Live Power BI Report Link Here) (Replace with the actual link to your published Power BI report)
+[https://fs.blabigo.com/s/aN0bzVEM] 
 
 ## Tools Used
 
